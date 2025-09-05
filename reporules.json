@@ -1,6 +1,4 @@
 {
-   "owner":"Devja318",
-   "repo":"siemanko",
    "name":"my ruleset",
    "target":"branch",
    "enforcement":"active",
@@ -29,8 +27,5 @@
       {
         "type":"required_linear_history"
         }
-   ],
-   "headers":{
-      "X-GitHub-Api-Version":"2022-11-28"
-   }
+   ]
 }
